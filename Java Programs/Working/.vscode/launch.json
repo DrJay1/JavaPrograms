@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch stemprep",
+            "request": "launch",
+            "mainClass": "stemprep",
+            "projectName": "Working_fdac418"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch home",
+            "request": "launch",
+            "mainClass": "home",
+            "projectName": "Working_fdac418"
+        },
+        {
+            "type": "java",
+            "name": "Launch kingest",
+            "request": "launch",
+            "mainClass": "kingest",
+            "projectName": "Working_fdac418"
+        },
+        {
+            "type": "java",
+            "name": "Launch testprep",
+            "request": "launch",
+            "mainClass": "testprep",
+            "projectName": "Working_fdac418"
+        }
+    ]
+}
